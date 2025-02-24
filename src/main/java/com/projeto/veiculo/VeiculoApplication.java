@@ -15,7 +15,7 @@ public class VeiculoApplication {
 
 
 
-
+init
 
 	public static void main(String[] args) {
 		SpringApplication.run(VeiculoApplication.class, args);
